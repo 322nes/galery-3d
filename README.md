@@ -1,2 +1,2 @@
 # galery-3d
-onlu HTML + CSS
+only HTML + CSS
